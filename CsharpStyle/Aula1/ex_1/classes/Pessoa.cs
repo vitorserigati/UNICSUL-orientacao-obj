@@ -8,7 +8,7 @@ public class Pessoa
     public Pessoa(string name, int age)
     {
         SetName(name);
-        Idade = age;
+        SetIdade(age);
     }
 
     public string Name
